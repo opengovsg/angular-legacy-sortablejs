@@ -7,11 +7,11 @@ Angular 1 module that integrates with Sortable.js
 
 ## Install with NPM
 
-    npm install angular-legacy-sortablejs-maintained
+    npm install @opengovsg/angular-legacy-sortablejs-maintained
 
 ## Install with Yarn
 
-    yarn add angular-legacy-sortablejs-maintained
+    yarn add @opengovsg/angular-legacy-sortablejs-maintained
 
 Don't install the old angular-legacy-sortablejs package as thats not maintained
 
