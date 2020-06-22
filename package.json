@@ -1,7 +1,7 @@
 {
-  "name": "angular-legacy-sortablejs-maintained",
-  "version": "0.6.2",
-  "description": "Angular (legacy) directive for SortableJS.",
+  "name": "@opengovsg/angular-legacy-sortablejs-maintained",
+  "version": "1.0.0",
+  "description": "Fork of Angular (legacy) directive for SortableJS.",
   "main": "angular-legacy-sortable.js",
   "scripts": {
     "serve:example": "node example/app.js",
@@ -23,7 +23,7 @@
   "bugs": {
     "url": "https://github.com/SortableJS/angular-legacy-sortablejs/issues"
   },
-  "homepage": "https://github.com/SortableJS/angular-legacy-sortablejs#readme",
+  "homepage": "https://github.com/opengovsg/angular-legacy-sortablejs",
   "devDependencies": {
     "express": "^4.15.3",
     "express-static": "^1.1.0",
